@@ -1,4 +1,4 @@
-# Hurricane Hack Data
+# Fuck IG (Brute Force)
 
 <img src="/Screenshots/Brute-Force-instagram-V6.png"></img>
 
