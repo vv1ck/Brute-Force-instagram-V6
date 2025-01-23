@@ -78,16 +78,16 @@ To ensure good scanning and guaranteed penetration, you should use a strong prox
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="/Screenshots/photo1.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 1">
-    <img src="/Screenshots/photo2.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 2">
-    <img src="/Screenshots/photo3.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 3">
-    <img src="/Screenshots/photo4.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 4">
-    <img src="/Screenshots/photo5.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 5">
-    <img src="/Screenshots/photo6.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 6">
-    <img src="/Screenshots/photo7.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 7">
-    <img src="/Screenshots/photo8.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 8">
-    <img src="/Screenshots/photo9.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 9">
-    <img src="/Screenshots/photo10.jpg" style="width: 10%; margin: 1%;" alt="Screenshot 10">
+    <img src="/Screenshots/photo1.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 1">
+    <img src="/Screenshots/photo2.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 2">
+    <img src="/Screenshots/photo3.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 3">
+    <img src="/Screenshots/photo4.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 4">
+    <img src="/Screenshots/photo5.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 5">
+    <img src="/Screenshots/photo6.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 6">
+    <img src="/Screenshots/photo7.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 7">
+    <img src="/Screenshots/photo8.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 8">
+    <img src="/Screenshots/photo9.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 9">
+    <img src="/Screenshots/photo10.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 10">
 </div>
 
 **By Joker, IG: @221298**
