@@ -74,6 +74,22 @@ To ensure good scanning and guaranteed penetration, you should use a strong prox
 > [proxy-extractor](https://github.com/vv1ck/Proxies-JQ)
 
 
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="/Screenshots/photo1.png" style="width: 22%; margin: 1%;" alt="Screenshot 1">
+    <img src="/Screenshots/photo2.png" style="width: 22%; margin: 1%;" alt="Screenshot 2">
+    <img src="/Screenshots/photo3.png" style="width: 22%; margin: 1%;" alt="Screenshot 3">
+    <img src="/Screenshots/photo4.png" style="width: 22%; margin: 1%;" alt="Screenshot 4">
+    <img src="/Screenshots/photo5.png" style="width: 22%; margin: 1%;" alt="Screenshot 5">
+    <img src="/Screenshots/photo6.png" style="width: 22%; margin: 1%;" alt="Screenshot 6">
+    <img src="/Screenshots/photo7.png" style="width: 22%; margin: 1%;" alt="Screenshot 7">
+    <img src="/Screenshots/photo8.png" style="width: 22%; margin: 1%;" alt="Screenshot 8">
+    <img src="/Screenshots/photo9.png" style="width: 22%; margin: 1%;" alt="Screenshot 9">
+    <img src="/Screenshots/photo10.png" style="width: 22%; margin: 1%;" alt="Screenshot 10">
+</div>
+
 **By Joker, IG: @221298**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
