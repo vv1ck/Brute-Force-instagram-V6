@@ -89,7 +89,7 @@ To ensure good scanning and guaranteed penetration, you should use a strong prox
     <img src="/Screenshots/photo9.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 9">
     <img src="/Screenshots/photo7.jpg" style="width: 15%; margin: 1%;" alt="Screenshot 7">
 </div>
-For more screenshots [here](https://telegra.ph/IG-FUCK-12-29) , And more [here](https://t.me/IG_FUCK)
+- For more screenshots [here](https://telegra.ph/IG-FUCK-12-29) , And more [here](https://t.me/IG_FUCK)
 
 **By Joker, IG: @221298**
 
