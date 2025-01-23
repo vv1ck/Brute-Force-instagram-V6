@@ -65,7 +65,13 @@ You will find the tool in exe format for direct use on Windows and also find its
 
 ## Note
 
-I have placed the files (data) in another folder because they are too large and difficult to download.
+To ensure good scanning and guaranteed penetration, you should use a strong proxy. You can use a free proxy, but it will not have the same performance and strength.
+- This site offers a strong and valid proxy for Instagram. You must purchase through the link below.
+> [coldproxy](https://coldproxy.com/clients/index.php?rp=/store/ipv4-residential-proxies)
+- This site offers a free and good proxy that you can use.
+> [proxyscrape](https://proxyscrape.com/free-proxy-list)
+- You can also use our free proxy extraction tool.
+> [proxy-extractor](https://github.com/vv1ck/Proxies-JQ)
 
 
 **By Joker, IG: @221298**
